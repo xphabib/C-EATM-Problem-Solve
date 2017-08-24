@@ -1,0 +1,6 @@
+E:\BITM\habibEATM\habibEATM\bin\Debug\habibEATM.exe.config
+E:\BITM\habibEATM\habibEATM\bin\Debug\habibEATM.exe
+E:\BITM\habibEATM\habibEATM\bin\Debug\habibEATM.pdb
+E:\BITM\habibEATM\habibEATM\obj\Debug\habibEATM.csprojResolveAssemblyReference.cache
+E:\BITM\habibEATM\habibEATM\obj\Debug\habibEATM.exe
+E:\BITM\habibEATM\habibEATM\obj\Debug\habibEATM.pdb
